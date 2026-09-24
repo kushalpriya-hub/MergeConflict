@@ -1,4 +1,4 @@
-let age = 25;
+let ageing = 25;
 const name = "Harsh";
 
 console.log(age);
